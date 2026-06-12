@@ -39,7 +39,7 @@
 
 ### 🔗 &nbsp;Contact Me
 
-<div align="center">
+<div align="left">
 <a href="mailto:unaiconusdelatorre@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://es.linkedin.com/in/unai-conus-de-la-torre-701239274"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
