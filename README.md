@@ -38,6 +38,13 @@
 
 #### S.O 
 ![Debian](https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg)
+![Debian](https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg)
+![Debian](https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg)
+![Debian](https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg)
+![Debian](https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg)
+![Debian](https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg)
+![Debian](https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg)
+
 
 ### 🔗 &nbsp;Contact Me
 
