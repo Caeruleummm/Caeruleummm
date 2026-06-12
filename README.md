@@ -36,6 +36,8 @@
 ![Wordpress](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
+#### S.O 
+![Debian](https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg)
 
 ### 🔗 &nbsp;Contact Me
 
